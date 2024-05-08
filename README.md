@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Khushi
-- 🌱 I’m currently learning Web Developement
 - 📫 Reach me khushirani2511@gmail.com
   
 
