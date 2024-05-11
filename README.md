@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Khushi
-- 📫 Reach me khushirani2511@gmail.com
+
   
 
 <!---
