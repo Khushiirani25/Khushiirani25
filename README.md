@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Khushi
-
+  
+💻 **Computer Science Engineer | Web Developer | Tech Enthusiast**  
+🚀 Passionate about building impactful digital solutions and exploring the world of coding.
   
 
 <!---
